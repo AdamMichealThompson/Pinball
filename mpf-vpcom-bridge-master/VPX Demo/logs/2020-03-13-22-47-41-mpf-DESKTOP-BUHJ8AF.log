@@ -1,0 +1,97 @@
+2020-03-13 22:47:41,582 : INFO : Machine : Mission Pinball Framework Core Engine v0.53.2
+2020-03-13 22:47:41,582 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'mpfconfigfile': 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\lib\\site-packages\\mpf\\mpfconfig.yaml', 'force_assets_load': False, 'jsonlogging': False, 'logfile': 'logs\\2020-03-13-22-47-41-mpf-DESKTOP-BUHJ8AF.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2020-03-13 22:47:41,582 : INFO : Machine : MPF path: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf
+2020-03-13 22:47:41,582 : INFO : Machine : Machine path: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo
+2020-03-13 22:47:41,582 : INFO : Machine : Platform: win32
+2020-03-13 22:47:41,582 : INFO : Machine : Python executable location: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe
+2020-03-13 22:47:41,582 : INFO : Machine : Python version: 3.6.6 (64-bit)
+2020-03-13 22:47:41,582 : INFO : Machine : Machine config file #1: config.yaml
+2020-03-13 22:47:41,583 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\680ba6e524fe73c7d6f6b68ccf4b93d0.mpf_cache
+2020-03-13 22:47:41,583 : INFO : ConfigProcessor : Loading config from file C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\mpfconfig.yaml.
+2020-03-13 22:47:41,644 : INFO : ConfigProcessor : Loading config: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\mpfconfig.yaml
+2020-03-13 22:47:41,652 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\config\config.yaml.
+2020-03-13 22:47:41,688 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\config\config.yaml
+2020-03-13 22:47:41,689 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\680ba6e524fe73c7d6f6b68ccf4b93d0.mpf_cache
+2020-03-13 22:47:41,691 : INFO : Machine : Initialise MPF.
+2020-03-13 22:47:41,926 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,974 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'MPF v0.53.2', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,974 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'MPF v0.53.2, Config version:5, Show version: 5, BCP version:1.1', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,974 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.6.6', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,974 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.17763-SP0', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,974 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,974 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,975 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.17763', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,975 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2020-03-13 22:47:41,975 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2020-03-13 22:47:42,013 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\65c3039d99125aa5be45a3f0d72177aa.mpf_cache
+2020-03-13 22:47:42,013 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\base\config\base.yaml.
+2020-03-13 22:47:42,031 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\base\config\base.yaml
+2020-03-13 22:47:42,032 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\65c3039d99125aa5be45a3f0d72177aa.mpf_cache
+2020-03-13 22:47:42,034 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\67e148b1465f9071ba59fd0450e586a7.mpf_cache
+2020-03-13 22:47:42,034 : INFO : ConfigProcessor : Loading config from file C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2020-03-13 22:47:42,036 : INFO : ConfigProcessor : Loading config: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2020-03-13 22:47:42,036 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\attract\config\attract.yaml.
+2020-03-13 22:47:42,043 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\attract\config\attract.yaml
+2020-03-13 22:47:42,044 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\67e148b1465f9071ba59fd0450e586a7.mpf_cache
+2020-03-13 22:47:42,050 : INFO : ConfigProcessor : Loading config from cache: C:\Users\CODEBR~1\AppData\Local\Temp\f628b1ba5c1197884e9c8e25e8752b03.mpf_cache
+2020-03-13 22:47:42,055 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\cba781617e1edf4b2f271526d2b6d925.mpf_cache
+2020-03-13 22:47:42,055 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\rolloverlit\config\rolloverlit.yaml.
+2020-03-13 22:47:42,062 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\rolloverlit\config\rolloverlit.yaml
+2020-03-13 22:47:42,063 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\cba781617e1edf4b2f271526d2b6d925.mpf_cache
+2020-03-13 22:47:42,077 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2020-03-13 22:47:42,077 : INFO : SwitchController : Found active switch: ('12', <mpf.platforms.virtual_pinball.virtual_pinball.VirtualPinballPlatform object at 0x000001F914D04448>)
+2020-03-13 22:47:42,081 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2020-03-13 22:47:42,082 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2020-03-13 22:47:47,807 : INFO : BCPClientSocket : Connected BCP to 'local_display' localhost:5050
+2020-03-13 22:47:47,807 : INFO : EventManager : Event: ======'bcp_clients_connected'====== Args={}
+2020-03-13 22:47:47,820 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2020-03-13 22:47:47,820 : INFO : AssetManager : Registering Asset: base_display_loop, File: base_display_loop.yaml, Default Group: default, Final Config: {'load': 'preload', 'file': 'C:\\Users\\codebringer\\Downloads\\mpf-vpcom-bridge-master\\mpf-vpcom-bridge-master\\VPX Demo\\modes\\base\\shows\\base_display_loop.yaml'}
+2020-03-13 22:47:47,820 : INFO : AssetManager : Registering Asset: hole_wait_show, File: hole_wait_show.yaml, Default Group: default, Final Config: {'load': 'preload', 'file': 'C:\\Users\\codebringer\\Downloads\\mpf-vpcom-bridge-master\\mpf-vpcom-bridge-master\\VPX Demo\\modes\\base\\shows\\hole_wait_show.yaml'}
+2020-03-13 22:47:47,821 : INFO : AssetManager : Registering Asset: attract_display_loop, File: attract_display_loop.yaml, Default Group: default, Final Config: {'load': 'preload', 'file': 'C:\\Users\\codebringer\\Downloads\\mpf-vpcom-bridge-master\\mpf-vpcom-bridge-master\\VPX Demo\\modes\\attract\\shows\\attract_display_loop.yaml'}
+2020-03-13 22:47:47,823 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\be2db92fe85f26984b05d31d2818268f.mpf_cache
+2020-03-13 22:47:47,823 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\base\shows\base_display_loop.yaml.
+2020-03-13 22:47:47,847 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\base\shows\base_display_loop.yaml
+2020-03-13 22:47:47,848 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\be2db92fe85f26984b05d31d2818268f.mpf_cache
+2020-03-13 22:47:47,851 : INFO : EventManager : Event: ======'loading_assets'====== Args={'total': 3, 'loaded': 1, 'remaining': 2, 'percent': 33}
+2020-03-13 22:47:47,851 : INFO : AssetManager : Loading assets: 1/3 (33%)
+2020-03-13 22:47:47,851 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\fa65f04f79458f71335a74ebef6fd684.mpf_cache
+2020-03-13 22:47:47,851 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\base\shows\hole_wait_show.yaml.
+2020-03-13 22:47:47,858 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\base\shows\hole_wait_show.yaml
+2020-03-13 22:47:47,858 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\fa65f04f79458f71335a74ebef6fd684.mpf_cache
+2020-03-13 22:47:47,859 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\fada3c0d501da8f924bd696318257662.mpf_cache
+2020-03-13 22:47:47,859 : INFO : ConfigProcessor : Loading config from file C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\attract\shows\attract_display_loop.yaml.
+2020-03-13 22:47:47,864 : INFO : ConfigProcessor : Loading config: C:\Users\codebringer\Downloads\mpf-vpcom-bridge-master\mpf-vpcom-bridge-master\VPX Demo\modes\attract\shows\attract_display_loop.yaml
+2020-03-13 22:47:47,865 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\fada3c0d501da8f924bd696318257662.mpf_cache
+2020-03-13 22:47:47,865 : INFO : EventManager : Event: ======'loading_assets'====== Args={'total': 3, 'loaded': 3, 'remaining': 0, 'percent': 100}
+2020-03-13 22:47:47,865 : INFO : AssetManager : Asset loading took: 5.95719838142395
+2020-03-13 22:47:47,865 : INFO : EventManager : Event: ======'asset_loading_complete'====== Args={}
+2020-03-13 22:47:47,866 : INFO : AssetManager : Loading assets: 3/3 (100%)
+2020-03-13 22:47:47,866 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2020-03-13 22:47:47,867 : INFO : EventManager : Event: ======'machine_var_mc_version'====== Args={'value': 'MPF-MC v0.53.1', 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,867 : INFO : EventManager : Event: ======'machine_var_mc_extended_version'====== Args={'value': 'MPF-MC v0.53.1 (config_version=5, BCP v1.1, Requires MPF v0.53.0)', 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,869 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,886 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_startgame'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,886 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_1'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,886 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_2'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,887 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_trough_3'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,887 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_leftflipper'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,887 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_rightflipper'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,888 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_leftsling'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,888 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_rightsling'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,888 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_bumper'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,888 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_plunger_lane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,889 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_right_hole'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,889 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_top_rollover_a'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,889 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_top_rollover_b'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,890 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_top_rollover_c'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,890 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_launch'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,890 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_left_inlane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,891 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_right_inlane'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,891 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_standup_target'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,892 : INFO : EventManager : Event: ======'machine_var_audits_switches_s_enter_playfield'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,892 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2020-03-13 22:47:47,894 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2020-03-13 22:48:52,205 : INFO : Machine : Starting the main run loop.
+2020-03-13 22:48:52,205 : INFO : Machine : Shutting down...
+2020-03-13 22:48:52,205 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2020-03-13 22:48:52,210 : INFO : root : MPF run loop ended.

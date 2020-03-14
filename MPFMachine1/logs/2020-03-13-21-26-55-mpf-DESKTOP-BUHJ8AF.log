@@ -1,0 +1,49 @@
+2020-03-13 21:26:55,539 : INFO : Machine : Mission Pinball Framework Core Engine v0.53.2
+2020-03-13 21:26:55,539 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'mpfconfigfile': 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\lib\\site-packages\\mpf\\mpfconfig.yaml', 'force_assets_load': False, 'jsonlogging': False, 'logfile': 'logs\\2020-03-13-21-26-55-mpf-DESKTOP-BUHJ8AF.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2020-03-13 21:26:55,540 : INFO : Machine : MPF path: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf
+2020-03-13 21:26:55,540 : INFO : Machine : Machine path: C:\ThompsonCodes\Pinball\MPFMachine1
+2020-03-13 21:26:55,540 : INFO : Machine : Platform: win32
+2020-03-13 21:26:55,540 : INFO : Machine : Python executable location: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe
+2020-03-13 21:26:55,540 : INFO : Machine : Python version: 3.6.6 (64-bit)
+2020-03-13 21:26:55,540 : INFO : Machine : Machine config file #1: config.yaml
+2020-03-13 21:26:55,541 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\f5235ac4162413c3418183dd5ff6111a.mpf_cache
+2020-03-13 21:26:55,541 : INFO : ConfigProcessor : Loading config from file C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\mpfconfig.yaml.
+2020-03-13 21:26:55,613 : INFO : ConfigProcessor : Loading config: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\mpfconfig.yaml
+2020-03-13 21:26:55,956 : INFO : ConfigValidator : Config spec file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\config_spec.mpf_cache
+2020-03-13 21:26:55,962 : INFO : ConfigProcessor : Loading config from file C:\ThompsonCodes\Pinball\MPFMachine1\config\config.yaml.
+2020-03-13 21:26:55,963 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\f5235ac4162413c3418183dd5ff6111a.mpf_cache
+2020-03-13 21:26:55,965 : INFO : Machine : Initialise MPF.
+2020-03-13 21:26:56,304 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,353 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'MPF v0.53.2', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'MPF v0.53.2, Config version:5, Show version: 5, BCP version:1.1', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.6.6', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.17763-SP0', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.17763', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,354 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2020-03-13 21:26:56,402 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\c698741bf3a58b88220076a8235198d8.mpf_cache
+2020-03-13 21:26:56,402 : INFO : ConfigProcessor : Loading config from file C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2020-03-13 21:26:56,407 : INFO : ConfigProcessor : Loading config: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\modes\attract\config\attract.yaml
+2020-03-13 21:26:56,407 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\c698741bf3a58b88220076a8235198d8.mpf_cache
+2020-03-13 21:26:56,412 : WARNING : ConfigProcessor : Cache file not found: C:\Users\CODEBR~1\AppData\Local\Temp\f628b1ba5c1197884e9c8e25e8752b03.mpf_cache
+2020-03-13 21:26:56,412 : INFO : ConfigProcessor : Loading config from file C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\modes\game\config\game.yaml.
+2020-03-13 21:26:56,417 : INFO : ConfigProcessor : Loading config: C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\lib\site-packages\mpf\modes\game\config\game.yaml
+2020-03-13 21:26:56,417 : INFO : ConfigProcessor : Config file cache created: C:\Users\CODEBR~1\AppData\Local\Temp\f628b1ba5c1197884e9c8e25e8752b03.mpf_cache
+2020-03-13 21:26:56,423 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2020-03-13 21:26:56,429 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2020-03-13 21:26:56,431 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2020-03-13 21:26:56,432 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2020-03-13 21:26:56,432 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2020-03-13 21:26:56,449 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2020-03-13 21:26:56,449 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2020-03-13 21:26:56,449 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2020-03-13 21:26:56,449 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2020-03-13 21:26:56,450 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2020-03-13 21:26:56,450 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2020-03-13 21:26:56,450 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2020-03-13 21:26:56,450 : INFO : Mode.attract : Started. Priority: 10
+2020-03-13 21:26:56,450 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2020-03-13 21:26:56,451 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2020-03-13 21:26:56,466 : INFO : Machine : Starting the main run loop.
